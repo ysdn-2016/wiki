@@ -19,7 +19,7 @@ A list of resources for the interactive/digital team.
 ## Off-Site
 
 * [Planning Doc](https://docs.google.com/document/d/16vB5AxZOteWlyXSV7abTPYvYxf5QuojzzS7dVDd0_xY/edit)
-
+* [Teams Doc](https://gist.github.com/iamnbutler/f7b2bf6c20a59d99a05a)
 
 ## Team
 
