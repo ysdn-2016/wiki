@@ -23,6 +23,7 @@ A list of resources for the interactive/digital team.
 * [Planning Doc](https://docs.google.com/document/d/16vB5AxZOteWlyXSV7abTPYvYxf5QuojzzS7dVDd0_xY/edit)
 * [Tasks](https://github.com/ysdn-2016/site/issues)
 * [Timeline](https://github.com/ysdn-2016/site/milestones)
+* [Pinterest Board](https://www.pinterest.com/iamnbutler/ysdn-2016-offsite-inspiration/)
 * [Meeting URL](https://hangouts.google.com/call/vnhnrwviivwhwtkdlwapy2gjxea)
 
 ## Team
