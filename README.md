@@ -28,7 +28,7 @@ A list of resources for the interactive/digital team.
 
 ## Team
 
-* [Member Listing](https://gist.github.com/rosszurowski/f4caac9e91eb94ad0c1f)
+* [Member Listing](https://github.com/ysdn-2016/wiki/blob/master/members.csv)
 * [Member Availability](http://doodle.com/poll/vwwrpgnvv9scif3hc5wt7v6u/admin#table)
 
 ##### Meeting Notes
