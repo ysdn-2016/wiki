@@ -6,7 +6,6 @@ A list of resources for the interactive/digital team.
 #### Important Links
 
 * [Slack](http://ysdn-2016.slack.com/)
-* [Facebook](https://www.facebook.com/groups/interactive.ysdn16/)
 * [Dropbox](https://www.dropbox.com/sh/0orws4jnxzzxoar/AAANLvqluXCcZRBm7ydrjTnIa?dl=0): PM Nate with your dropbox info for invite
 * [Hour Tracking](https://docs.google.com/spreadsheets/d/19ZvF-en-KB24DpUDLeW3lAsks0yGlPbnb79wF3uDmV0/edit)
 * Calendar: [HTML](https://www.google.com/calendar/embed?src=interactive.ysdn16%40gmail.com&ctz=America/Toronto), [iCal](https://www.google.com/calendar/ical/interactive.ysdn16%40gmail.com/public/basic.ics)
@@ -31,6 +30,8 @@ A list of resources for the interactive/digital team.
 
 * [Member Listing](https://github.com/ysdn-2016/wiki/blob/master/members.csv)
 * [Member Availability](http://doodle.com/poll/vwwrpgnvv9scif3hc5wt7v6u/admin#table)
+* [Milestones](https://github.com/ysdn-2016/wiki/blob/master/milestones.csv)
+* [Team Facebook](https://www.facebook.com/groups/interactive.ysdn16/)
 
 ##### Meeting Notes
 
