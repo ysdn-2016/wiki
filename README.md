@@ -7,6 +7,7 @@ A list of resources for the interactive/digital team.
 
 * [Slack](http://ysdn-2016.slack.com/)
 * [Dropbox](https://www.dropbox.com/sh/0orws4jnxzzxoar/AAANLvqluXCcZRBm7ydrjTnIa?dl=0): PM Nate with your dropbox info for invite
+* [Google Drive](https://drive.google.com/folderview?id=0BwqC5gxVJvtXTENiVG16azlpdk0&usp=sharing)
 * [Hour Tracking](https://docs.google.com/spreadsheets/d/19ZvF-en-KB24DpUDLeW3lAsks0yGlPbnb79wF3uDmV0/edit)
 * Calendar: [HTML](https://www.google.com/calendar/embed?src=interactive.ysdn16%40gmail.com&ctz=America/Toronto), [iCal](https://www.google.com/calendar/ical/interactive.ysdn16%40gmail.com/public/basic.ics)
 
