@@ -4,7 +4,7 @@
 
 **Also**, Ryan and Nate, please provide feedback on this doc. Other people are going to be following this process soon, and the simpler it is, the better.
 
-If you don't care about any of this and just want to get things rolling, in the near future there will be a bootstrap script you can run to set things up automatically.
+If you don't care how any of this works and just want to get things rolling, in the near future there will be a bootstrap script you can run to set things up automatically.
 
 Contents:
 * [Setup](#setup)
