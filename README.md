@@ -36,5 +36,6 @@ A list of resources for the interactive/digital team.
 
 ##### Meeting Notes
 
-* ...
-* October 5: [Initial Brainstorm](https://docs.google.com/document/d/1G2Hd5g3ri2TU-dvgOGpL4ASziYh6wpC63j69Ofbtobc/edit)
+* October 21: Off-site, [Sprint half-way meeting](https://github.com/ysdn-2016/wiki/wiki/Off-Site-Team-Projects#for-oct-21st)
+* October 14: Off-site, [Sprint meeting](https://github.com/ysdn-2016/wiki/wiki/Off-Site-Team-Projects#for-oct-14th)
+* October 5: General, [Initial brainstorm](https://docs.google.com/document/d/1G2Hd5g3ri2TU-dvgOGpL4ASziYh6wpC63j69Ofbtobc/edit)
