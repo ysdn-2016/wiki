@@ -2,6 +2,8 @@
 
 **PLEASE NOTE:** If you're not on the back-end team, don't follow this guide just yet. Things may change between now and when front-end development starts, so wait until this document is a little further along.
 
+**Also**, Ryan and Nate, please provide feedback on this doc. Other people are going to be following this process soon, and the simpler it is, the better.
+
 If you don't care about any of this and just want to get things rolling, in the near future there will be a bootstrap script you can run to set things up automatically.
 
 Contents:
@@ -20,7 +22,7 @@ Our team will be operating over Github, it's important you know how to use git. 
 
 If you don't already have [Node](http://nodejs.org) installed, you'll want to run the following commands to do so.
 
-First, install [Homebrew](http://brew.sh) if you don't already have it.
+First, install [Homebrew](http://brew.sh) if you don't already have it. Open up terminal and type
 
 ```bash
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
