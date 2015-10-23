@@ -83,8 +83,10 @@ By default, if you make changes in a module (eg. `@ysdn/api`), it doesn't automa
 If you'll be working on a module like `@ysdn/koa` or `@ysdn/api`, and want changes in one to automatically show up in the other,  To automatically link changes, you can [`npm link`](https://docs.npmjs.com/cli/link) them.
 
 ```bash
-cd ysdn-2016-site
-./bin/link
+cd ysdn-2016-api
+npm link
+cd ../ysdn-2016-site
+npm link @ysdn/api
 ```
 
 This will symlink between repositories so changes auto-update.
