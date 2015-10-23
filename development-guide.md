@@ -13,7 +13,7 @@ Contents:
 For a quick-and-easy setup, just open Terminal and paste in the command below.
 
 ```bash
-wget -qO- https://raw.githubusercontent.com/ysdn-2016/site/master/bin/bootstrap | bash
+bash -c "$(wget -qO- https://raw.githubusercontent.com/ysdn-2016/site/master/bin/bootstrap)"
 ```
 
 #### Install Github for Mac
