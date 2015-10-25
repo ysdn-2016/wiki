@@ -1,73 +1,46 @@
 # Off-site Development Guide
 
-**PLEASE NOTE:** If you're not on the back-end team, don't follow this guide just yet. Things may change between now and when front-end development starts, so wait until this document is a little further along.
+**NOTE:** Don't follow this guide yet, unless you've been instructed to do so. This document is still in development.
 
-Contents:
-* [Setup](#setup)
-* [Running the server](#running-the-server)
+* [Environment Setup](#environment-setup)
 * [Writing Code](#writing-code)
 * [Committing Code](#committing-code)
 
 ## Environment Setup
 
-For a quick-and-easy setup, just open Terminal and paste in the command below.
+To set up your computer, open a Terminal window and run the following command:
 
 ```bash
 bash -c "$(wget -qO- https://raw.githubusercontent.com/ysdn-2016/site/master/bin/bootstrap)"
 ```
 
+<sup>Errors? Post in [#off-site-backend](https://ysdn-2016.slack.com/messages/off-site-backend/) and someone can help you out.</sup>
+
 #### Install Github for Mac
 
-Git is a tool to make it easier to collaboratively work on code. Normally git is a command-line tool, but Github makes [Github for Mac](https://desktop.github.com/) so you don't need to use the command line.
+Git is a tool to make it easier to work on code in a collaborative way. Normally git is a command-line tool, but Github makes [Github for Mac](https://desktop.github.com/) so you don't need to use the command line. [Download it here](https://desktop.github.com/).
 
-Don't know how to use Git? Post in the Slack! Someone will be able to give you a run-down.
+Never used git before? Github has some extensive documentation
 
-#### Install Node
+#### Clone the site
 
-The site runs on [Node](http://nodejs.org), a tool for writing web server code in Javascript (as opposed to PHP or Ruby). In order to develop locally, you'll need to have Node installed.
+The site is broken into a bunch of pieces ("modules") to make development easier. This means you only have to run the parts that are relevant to you. All the modules come together to make the end site.
 
-First, install [Homebrew](http://brew.sh) if you don't already have it. Open up terminal and type
+Depending on what you're working on, you'll only need to clone certain repos.
 
-```bash
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
+Project                 | Repository                                        | URL
+----------------------- | ------------------------------------------------- | -----
+Primary Site            | [@ysdn/site](https://github.com/ysdn-2016/site)   | http://ysdn2016.com/
+Admin Interface         | [@ysdn/admin](https://github.com/ysdn-2016/admin) | http://ysdn2016.com/admin/
+API                     | [@ysdn/api](https://github.com/ysdn-2016/api)     | http://ysdn2016.com/api/
 
-Next up, install [Node](http://nodejs.org) and [n](http://github.com/tj/n)
+Clone the ones you'll be making changes to. So if you'll be working on both the [site](https://github.com/ysdn-2016/site) and the [API](https://github.com/ysdn-2016/api), go to each repo and hit the ["Clone in Desktop" button](https://github-images.s3.amazonaws.com/enterprise/11.10.340/user/assets/images/help/repository/clone_in_mac.jpg) in the sidebar.
 
-```bash
-brew install node
-npm install -g n
-n latest
-```
+## Writing code
 
-Now, if you run
+Open up your cloned repo in your favourite text editor.
 
-```bash
-node -v
-```
-
-It should spit out a string like `v4.2.1` or higher. Ask for help if it doesn't.
-
-#### Clone the codebase
-
-The site is structured into a bunch of modules to make developing easier and more contained. Depending on what you're working on, you'll only need to clone certain repos.
-
-Project                 | Repository
------------------------ | -------------
-Primary Site            | [@ysdn/site](https://github.com/ysdn-2016/site)
-Admin Interface         | [@ysdn/admin](https://github.com/ysdn-2016/admin)
-API                     | [@ysdn/api](https://github.com/ysdn-2016/api)
-
-Clone the ones you'll be making changes to. So if you'll be working on both the site and the API, run
-
-```bash
-git clone git@github.com:ysdn-2016/site.git ysdn-2016-site
-git clone git@github.com:ysdn-2016/api.git ysdn-2016-api
-```
-
-## Running the server
-
-To run a module, do the following:
+To start the web server, change into the cloned repo folder
 
 ```bash
 cd ysdn-2016-site
@@ -118,13 +91,11 @@ If you're writing backend code, be sure to add tests to let us know if something
 
 ## Committing code
 
-TODO: Add some guides about git etiquette
+The way we're working is based on [this workflow](https://guides.github.com/introduction/flow/):
 
-Using git demands a bit of etiquette, because we're all working in the same space.
-
-* Commit as you go. Don't lump all your changes into one big commit.
-* Make your changes in a new branch, titled after the issue number and name. So the appropriate branch name for [#19](https://github.com/ysdn-2016/tasks/issues/19) would be `19-connect-api-to-database`
-* Send changes as pull requests, link to the related issue, and tag 1-2 people to review your code.
+1. Create a new branch for the task you're working on. Title it using the issue number and name. For example, the appropriate branch name for [#19](https://github.com/ysdn-2016/tasks/issues/19) would be `19-connect-api-to-database`
+2. Make your changes. Be sure to commit as you go, and try not to lump all your changes into one big commit. If you're coding a gallery page, maybe commit once you have the basic HTML structure done, then the basic CSS, and then for each subsequent refinement.
+3. Once you're happy with the changes, push the branch to Github and open a Pull Request. In the pull request text, link to the related issue, and tag 1-2 people to review your code. For a good example, [check out this PR](https://github.com/ysdn-2016/api/pull/1).
 
 ## Deploying
 
