@@ -30,9 +30,9 @@ Depending on what you're working on, you'll only need to clone certain repos.
 
 Project                 | Repository                                        | URL
 ----------------------- | ------------------------------------------------- | -----
-Primary Site            | [@ysdn/site](https://github.com/ysdn-2016/site)   | http://ysdn2016.com/
-Admin Interface         | [@ysdn/admin](https://github.com/ysdn-2016/admin) | http://ysdn2016.com/admin/
-API                     | [@ysdn/api](https://github.com/ysdn-2016/api)     | http://ysdn2016.com/api/
+Primary Site            | [@ysdn/site](https://github.com/ysdn-2016/site)   | http://ysdn-2016.herokuapp.com/
+Admin Interface         | [@ysdn/admin](https://github.com/ysdn-2016/admin) | http://ysdn-2016.herokuapp.com/admin/
+API                     | [@ysdn/api](https://github.com/ysdn-2016/api)     | http://ysdn-2016.herokuapp.com/api/
 
 Clone the ones you'll be making changes to. So if you'll be working on both the [site](https://github.com/ysdn-2016/site) and the [API](https://github.com/ysdn-2016/api), go to each repo and hit the ["Clone in Desktop" button](https://github-images.s3.amazonaws.com/enterprise/11.10.340/user/assets/images/help/repository/clone_in_mac.jpg) in the sidebar.
 
