@@ -11,7 +11,7 @@
 To set up your computer, open a Terminal window and run the following command:
 
 ```bash
-bash -c "$(curl https://raw.githubusercontent.com/ysdn-2016/site/master/bin/bootstrap)"
+bash -c "$(curl -s https://raw.githubusercontent.com/ysdn-2016/site/master/bin/bootstrap)"
 ```
 
 <sup>Errors? Post in [#off-site-backend](https://ysdn-2016.slack.com/messages/off-site-backend/) and someone can help you out.</sup>
