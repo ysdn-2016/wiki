@@ -78,11 +78,11 @@ This will symlink the folders so changes are automatically synchronized.
 
 Each module has a few helpful scripts you can run.
 
-* `npm start`: starts the webserver
-* `npm run watch`: starts the webserver with auto-reloading (use this for development)
-* `npm lint`: runs the linter to identify code style issues
-* `npm test`: runs any available tests
-* `npm run publish`: publishes the module to npm
+* `make start`: starts the webserver
+* `make watch`: starts the webserver with auto-reloading (use this for development)
+* `make lint`: runs the linter to identify code style issues
+* `make test`: runs any available tests
+* `make publish`: publishes the module to npm
 
 ## Writing code
 
