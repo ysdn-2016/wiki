@@ -16,6 +16,7 @@ A list of resources for the interactive/digital team.
 * [Planning Doc](https://docs.google.com/document/d/1aDa-a2kPPcWDaRwLffFpJcxhCOuOFPmwUgbbUi6LQzU/edit)
 * [Pinterest Board](https://www.pinterest.com/eloshim/grad-show-interactive-design-pinspiration/)
 * [Current Timeline] (https://docs.google.com/document/d/1T7y3FcYEjjHNChrCgNdKLqWClJLQq6ijwM57RbxzYs0/edit?usp=sharing)
+* [Google Drive] (https://drive.google.com/folderview?id=0B4Jbmcn8QjXUem5PSm1kWWZUNlk&usp=sharing)
 
 
 ## Off-Site
