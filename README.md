@@ -37,8 +37,11 @@ A list of resources for the interactive/digital team.
 
 ##### Meeting Notes
 
-* November 4: On Site, [Status Meeting] (https://docs.google.com/document/d/1sJ8OuRWej-r-6V8U8nayXXUFJ-xFw21us6fquNSMyes/edit?usp=sharing)
+* November 11: Off-site, [Sprint meeting](https://github.com/ysdn-2016/wiki/wiki/Off-Site-Team-Projects-%26-Meetings#for-nov-11th)
+* November 4: On-site, [Status Meeting] (https://docs.google.com/document/d/1sJ8OuRWej-r-6V8U8nayXXUFJ-xFw21us6fquNSMyes/edit?usp=sharing)
+* November 4: Off-site, no meeting
 * October 28: On-site, [Status Meeting] (https://docs.google.com/document/d/1M9mTtyLntVNtQmRshoxtcXBVBSotH0NIMfintQquoZs/edit?usp=sharing)
+* October 28: Off-site, [Sprint meeting (shortened)](https://github.com/ysdn-2016/wiki/wiki/Off-Site-Team-Projects-%26-Meetings#for-oct-28th)
 * October 21: Off-site, [Sprint half-way meeting](https://github.com/ysdn-2016/wiki/wiki/Off-Site-Team-Projects#for-oct-21st)
 * October 16: On-site w. experiential team, [Venue meeting notes] (https://docs.google.com/document/d/1ZimBR4wd2_iFDdcOEcLlPSHv9spo6fYhzcUAlzqzTWQ/edit?usp=sharing)
 * October 14: Off-site, [Sprint meeting](https://github.com/ysdn-2016/wiki/wiki/Off-Site-Team-Projects#for-oct-14th)
