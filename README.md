@@ -37,6 +37,7 @@ A list of resources for the interactive/digital team.
 
 ##### Meeting Notes
 
+* November 25: On-site, [Presentation Meeting] (https://docs.google.com/document/d/1Kf94-_lOIQ9Lp5e-Sps4b4-n_za0vgLvQc5M-kcdYQ8/edit?usp=sharing)
 * November 20: Content Management, [Planning Meeting](https://docs.google.com/document/d/1XgZ5rgd8a594aVxPN10MyiLSK1o7Ygi-CNE86TQJnNQ/edit)
 * November 11: On-site, [Status Meeting](https://docs.google.com/document/d/1BesUZdKojYUgK_B5sVGKESnsvD8Hl_iga0TkUY-UTnM/edit?usp=sharing)
 * November 11: Off-site, [Sprint meeting](https://github.com/ysdn-2016/wiki/wiki/Off-Site-Team-Projects-%26-Meetings#for-nov-11th)
